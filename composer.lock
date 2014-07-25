@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "b1fb6bfcc46850805bff7d4034a007cd",
+    "packages": [
+        {
+            "name": "betabuddy/api-client",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/betabuddy/php-client.git",
+                "reference": "2ed818066bced80b9c6689835099177e31bfe5fd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/betabuddy/php-client/zipball/2ed818066bced80b9c6689835099177e31bfe5fd",
+                "reference": "2ed818066bced80b9c6689835099177e31bfe5fd",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "BetaBuddy\\ApiClient\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "BetaBuddy",
+                    "email": "coders@betabuddy.co",
+                    "homepage": "http://betabuddy.co"
+                }
+            ],
+            "description": "PHP client library for the BetaBuddy.co API. (http://betabuddy.co)",
+            "homepage": "https://github.com/betabuddy/php-client",
+            "keywords": [
+                "Beta",
+                "Invitation",
+                "launch",
+                "private"
+            ],
+            "time": "2014-07-25 02:49:06"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "betabuddy/api-client": 20
+    },
+    "prefer-stable": false,
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}

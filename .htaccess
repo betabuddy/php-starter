@@ -1,0 +1,5 @@
+Options -Indexes
+
+<FilesMatch "(composer.json|composer.lock|.gitignore|README.md|LICENSE)$">     
+    deny from all
+</FilesMatch>
