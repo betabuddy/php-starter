@@ -1,37 +1,35 @@
-/* Sticky footer styles
+/* Layout styles
 -------------------------------------------------- */
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
+    /* space for header */
+    padding-top: 50px;
+    /* Margin bottom by footer height */
+    margin-bottom: 220px;
 }
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 120px;
-  background-color: #2c3e50;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 220px;
+    background-color: #2c3e50;
 }
 .footer .container .text-muted {
-  margin: 60px 0;
-  text-align: center;
+    margin: 24px 0 0;
+    text-align: center;
 }
 /* ----------------------------------------------- */
 
 
-body {
-  padding-top: 50px;
-}
-.starter-template {
-  padding: 40px 15px;
-  text-align: center;
-}
 
-
+.signup-promo {
+    padding: 40px 15px 20px;
+    text-align: center;
+}
 
 
 
