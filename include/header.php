@@ -10,10 +10,7 @@
 
     <title>Awesome App</title>
 
-    <!-- Bootstrap core CSS 
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
-    -->
-    <!-- Using Bootswatch Flatly instead -->
+    <!-- Using Bootswatch Flatly instead of basic Bootstrap -->
     <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/flatly/bootstrap.min.css" rel="stylesheet">
     
     <!-- Using Font Awesome because *Everything Is Awesome* -->

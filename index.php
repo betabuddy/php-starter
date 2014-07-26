@@ -19,7 +19,9 @@ include './include/header.php';
 
 <div class="container">
     <h3 style='text-align: center;'>Sign up to get updates and early access</h3>
-    <!-- Begin MailChimp Signup Form -->
+    <!-- Begin MailChimp Signup Form 
+    NOTE: You'll want to you use your own form so we don't get your signups.  ;)
+    -->
     <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
     <div id="mc_embed_signup">
         <form action="//betabuddy.us8.list-manage.com/subscribe/post?u=d936a690f6603c79d69ffe13a&amp;id=aa0af00ac0" 
@@ -56,13 +58,6 @@ include './include/header.php';
         </form>
     </div>
 </div><!-- /.container -->
-
-
-
-
-<!--End mc_embed_signup-->
-
-
 
 <?php
 
