@@ -1,4 +1,4 @@
-<?php if (!defined(CURRENT_PAGE)) { exit; } ?>
+<?php if (!defined('CURRENT_PAGE')) { exit; } ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
