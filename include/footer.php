@@ -1,4 +1,4 @@
-<?php if (!defined('CURRENT_PAGE)) { exit; } ?>
+<?php if (!defined('CURRENT_PAGE')) { exit; } ?>
 
     <div class="footer">
         <div class="container">
