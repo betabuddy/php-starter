@@ -1,3 +1,5 @@
+<?php if (!defined(CURRENT_PAGE)) { exit; } ?>
+
     <div class="footer">
         <div class="container">
             <p class="text-muted">
