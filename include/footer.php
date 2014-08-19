@@ -6,11 +6,14 @@
                 &COPY; <?php echo gmdate("Y") ?> Awesome Apps Inc. - A Completely Unreal Company 
                 <br><br>
                 <small>
-                    If you got here by accident you should know that while this site 
-                    is fully functional, there is no special Awesome App we're launching.
-                    We use this site to show people the 
+                    In case you happened to get here by accident we'll let you in on a little secret... 
+                    there is no special Awesome App. This is a demo site to show off the 
                     <a href="http://betabuddy.co" target="_blank">awesome invitation management system</a>
                     we've built to help <a href="http://betabuddy.co" target="_blank">launch private beta programs</a>.
+                    Feel free to play with the site and see how things work. Then head over to our
+                    <a href="https://github.com/betabuddy" target="_blank">GitHub repo</a> where you can 
+                    <a href="https://github.com/betabuddy/php-starter" target="_blank">browse the source code</a>
+                    and read some of the <a href="javascript:alert('Oops! Still working on it. Good docs take forever to write.');">awesome documentation</a> for our API.
                 </small>
             </p>
         </div>
